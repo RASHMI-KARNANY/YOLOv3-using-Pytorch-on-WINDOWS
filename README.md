@@ -9,7 +9,7 @@ Anaconda – Python 3.7.3 (Win 10) https://www.anaconda.com/download/
 
 Conda Env – Yolo.yml
 
-🔗 https://github.com/RASHMI-KARNANY/YOLOv3-using-Pytorch-on-WINDOWS
+🔗 https://github.com/RASHMI-KARNANY/YOLOv3-using-Pytorch-on-WINDOWS/blob/master/YOLO.yml
 
 cd C:\yolo
 
